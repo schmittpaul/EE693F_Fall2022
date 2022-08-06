@@ -24,11 +24,11 @@ parent: EE693F
 |  9/14/2022 |                                                       |     |
 |  9/19/2022 |                                                       |     |
 |  9/21/2022 |                                                       |     |
-|  9/26/2022 | Project Proposal Due                                  |     |
+|  9/26/2022 |                                                       | Project Proposal |
 |  9/28/2022 |                                                       |     |
 |  10/3/2022 |                                                       |     |
 |  10/5/2022 |                                                       |     |
-| 10/10/2022 | Project Proposal Reviews Due                          |     |
+| 10/10/2022 |                                                       | Project Proposal Reviews |
 | 10/12/2022 |                                                       |     |
 | 10/17/2022 |                                                       |     |
 | 10/19/2022 |                                                       |     |
@@ -41,8 +41,8 @@ parent: EE693F
 | 11/14/2022 |                                                       |     |
 | 11/16/2022 |                                                       |     |
 | 11/21/2022 | No class: work on your project                        |     |
-| 11/23/2022 | No class: work on you project.; Final Deliverable Due |     |
+| 11/23/2022 | No class: work on your project                        | Final Project Deliverable |
 | 11/28/2022 |                                                       |     |
-| 11/30/2022 | Paper Reviews Due                                     |     |
+| 11/30/2022 |                                                       | Paper Reviews |
 |  12/5/2022 |                                                       |     |
-|  12/7/2022 | Revised Papers Due; Project Presentations             |     |
+|  12/7/2022 | Project Presentations                                 | Revised Papers Due; |
