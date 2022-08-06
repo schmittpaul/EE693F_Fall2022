@@ -36,8 +36,8 @@ The class will focus on topics in computer privacy and security. You will need
 to read papers prior to class, and be engaged in discussions. 
 
 - Class participation: 20%
-- Problem sets Project proposal and project reviews: 20%
 - Project proposal: 20%
+- Project reviews: 20%
 - Project: 40%
 
 The project will be the biggest piece of this class as the class is designed to
