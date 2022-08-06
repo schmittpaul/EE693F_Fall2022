@@ -14,13 +14,13 @@ parent: EE693F
 
 | Date       | Class Topic | Materials | Project Deadlines |
 |:-----------|:------------------------------------------------------|:------------------|
-|  8/22/2022 | Introduction | [Mickens: This World of Ours](papers/mickens.pdf)<br>[Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | |
-|  8/24/2022 |                                                       |     |
-|  8/29/2022 |                                                       |     |
-|  8/31/2022 |                                                       |     |
-|   9/5/2022 | No class                                              |     |
-|   9/7/2022 |                                                       |     |
-|  9/12/2022 | [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM) |     |
+|  8/22/2022 | Introduction<br>-[Mickens: This World of Ours](papers/mickens.pdf)<br>-[Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | [Mickens: This World of Ours](papers/mickens.pdf)<br>[Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | |
+|  8/24/2022 | Metadata Privacy | |
+|  8/29/2022 |                                                       | |
+|  8/31/2022 |                                                       | |
+|   9/5/2022 | No class                                              | |
+|   9/7/2022 |                                                       | |
+|  9/12/2022 | Academic Writing | [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM) |
 |  9/14/2022 |                                                       |     |
 |  9/19/2022 |                                                       |     |
 |  9/21/2022 |                                                       |     |
