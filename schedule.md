@@ -12,9 +12,9 @@ parent: EE693F
 - [Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)
 - [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf)
 
-| Date       | Class Topic                                           | Project Deadlines |
+| Date       | Class Topic | Readings | Project Deadlines |
 |:-----------|:------------------------------------------------------|:------------------|
-|  8/22/2022 | [Mickens: This World of Ours](papers/mickens.pdf)<br>[Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) |     |
+|  8/22/2022 | Introduction | [Mickens: This World of Ours](papers/mickens.pdf)<br>[Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | |
 |  8/24/2022 |                                                       |     |
 |  8/29/2022 |                                                       |     |
 |  8/31/2022 |                                                       |     |
@@ -44,5 +44,5 @@ parent: EE693F
 | 11/23/2022 | No class: work on your project                        | Final Project Deliverable |
 | 11/28/2022 |                                                       |     |
 | 11/30/2022 |                                                       | Paper Reviews |
-|  12/5/2022 |                                                       |     |
+|  12/5/2022 | Ethics | [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf) | |
 |  12/7/2022 | Project Presentations                                 | Revised Papers Due |
