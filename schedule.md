@@ -12,7 +12,7 @@ parent: EE693F
 
 | Date       | Class Topic | Project Deadlines |
 |:-----------|:------------------------------------------------------|:------------------|
-|  8/22/2022 | Introduction <br/> * [Mickens: This World of Ours](papers/mickens.pdf) <br /> * [Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | |
+|  8/22/2022 | Introduction<br>- [Mickens: This World of Ours](papers/mickens.pdf)<br>- [Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | |
 |  8/24/2022 | Metadata Privacy | |
 |  8/29/2022 |                                                       | |
 |  8/31/2022 |                                                       | |
@@ -20,7 +20,7 @@ parent: EE693F
 |   9/7/2022 |                                                       | |
 |  9/12/2022 | Academic Writing | [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM) |
 |  9/14/2022 |                                                       |     |
-|  9/19/2022 |                                                       <ul><li>item1</li><li>item2</li></ul>|     |
+|  9/19/2022 |                                                       |     |
 |  9/21/2022 |                                                       |     |
 |  9/26/2022 |                                                       | Project Proposal |
 |  9/28/2022 |                                                       |     |
@@ -42,5 +42,5 @@ parent: EE693F
 | 11/23/2022 | No class: work on your project                        | Final Project Deliverable |
 | 11/28/2022 |                                                       |     |
 | 11/30/2022 |                                                       | Paper Reviews |
-|  12/5/2022 | Ethics<br><ul><li>[Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf)</li></ul> | |
+|  12/5/2022 | Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf) | |
 |  12/7/2022 | Project Presentations                                 | Revised Papers Due |
