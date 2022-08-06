@@ -20,7 +20,7 @@ parent: EE693F
 |  8/31/2022 |                                                       |     |
 |   9/5/2022 | No class                                              |     |
 |   9/7/2022 |                                                       |     |
-|  9/12/2022 |                                                       |     |
+|  9/12/2022 | [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM) |     |
 |  9/14/2022 |                                                       |     |
 |  9/19/2022 |                                                       |     |
 |  9/21/2022 |                                                       |     |
