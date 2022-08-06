@@ -2,8 +2,8 @@
 layout: default
 title: EE693F
 nav_order: 1
-has_children: false
+has_children: true
 permalink: /
 ---
 
-# EE693F: Privacy and Security in the Modern Internet
+# Privacy and Security in the Modern Internet
