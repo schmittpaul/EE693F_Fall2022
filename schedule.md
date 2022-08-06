@@ -8,16 +8,11 @@ parent: EE693F
 
 # Schedule 
 
-- [Mickens: This World of Ours](papers/mickens.pdf)
-- [Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)
-- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf)
+
 
 | Date       | Class Topic | Project Deadlines |
 |:-----------|:------------------------------------------------------|:------------------|
-<!-- |  8/22/2022 | Introduction<br> <ul><li>[Mickens: This World of Ours](papers/mickens.pdf)</li><li>[Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)</li></ul> | | -->
-| 8/22/2022 | Introduction | |
-|           | - [Mickens: This World of Ours](papers/mickens.pdf)             | |
-|           | - [Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)            | | 
+|  8/22/2022 | Introduction <br/> <ul><li>[Mickens: This World of Ours](papers/mickens.pdf)</li><li>[Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)</li></ul>| |
 |  8/24/2022 | Metadata Privacy | |
 |  8/29/2022 |                                                       | |
 |  8/31/2022 |                                                       | |
