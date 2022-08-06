@@ -47,8 +47,8 @@ schedule with information on due dates.
 
 ## Project
 
-See this PDF for a discussion of project and deliverables. It may still be updated, ask me if you have questions.
+See this [PDF](project.pdf) for a discussion of project and deliverables. It may still be updated, ask me if you have questions.
 
 # Schedule
 
-The evolving schedule is available [here](Syllabus).
+The evolving schedule is available [here](schedule).
