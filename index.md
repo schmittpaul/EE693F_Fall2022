@@ -10,6 +10,7 @@ nav_order: 1
 
 ## Instructor
 Paul Schmitt
+
 pschmitt \[at\] hawaii.edu
 
 ## Details
