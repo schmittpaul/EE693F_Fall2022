@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Syllabus
+title: Schedule
 nav_order: 2
 has_children: false
 parent: EE693F
 ---
 
-# Syllabus 
+# Schedule 
