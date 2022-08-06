@@ -3,7 +3,7 @@ layout: default
 title: Syllabus
 nav_order: 2
 has_children: false
-permalink: /
+parent: EE693F
 ---
 
 # Syllabus 
