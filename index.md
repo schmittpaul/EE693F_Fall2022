@@ -49,6 +49,6 @@ schedule with information on due dates.
 
 See this [PDF](project.pdf) for a discussion of project and deliverables. It may still be updated, ask me if you have questions.
 
-# Schedule
+## Schedule
 
 The evolving schedule is available [here](schedule).
