@@ -37,7 +37,8 @@ The class will focus on topics in computer privacy and security. You will need
 to read papers prior to class, and be engaged in discussions. 
 
 - Class participation: 20%
-- Project proposal: 20%
+- Security reviews: 10%
+- Project proposal: 10%
 - Project reviews: 20%
 - Project: 40%
 
@@ -46,9 +47,13 @@ be an introduction to research in computer privacy and security. Projects can
 be in small groups that will depend on final enrollment. I will update the
 schedule with information on due dates.
 
+## Security reviews
+
+We will also be conducting security reviews. See this [PDF](papers/securityreview.pdf) for details.
+
 ## Project
 
-See this [PDF](project.pdf) for a discussion of project and deliverables. It may still be updated, ask me if you have questions.
+See this [PDF](papers/EE693F%20Project.pdf) for a discussion of project and deliverables. It may still be updated, ask me if you have questions.
 
 ## Schedule
 
