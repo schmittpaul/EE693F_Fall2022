@@ -47,7 +47,7 @@ be an introduction to research in computer privacy and security. Projects can
 be in small groups that will depend on final enrollment. I will update the
 schedule with information on due dates.
 
-## Security reviews
+<!-- ## Security reviews
 
 We will also be conducting security reviews. See this [PDF](papers/securityreview.pdf) for details.
 
@@ -57,4 +57,4 @@ See this [PDF](papers/EE693F%20Project.pdf) for a discussion of project and deli
 
 ## Schedule
 
-The evolving schedule is available [here](schedule).
+The evolving schedule is available [here](schedule). -->
