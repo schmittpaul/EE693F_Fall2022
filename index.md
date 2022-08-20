@@ -46,15 +46,3 @@ The project will be the biggest piece of this class as the class is designed to
 be an introduction to research in computer privacy and security. Projects can
 be in small groups that will depend on final enrollment. I will update the
 schedule with information on due dates.
-
-<!-- ## Security reviews
-
-We will also be conducting security reviews. See this [PDF](papers/securityreview.pdf) for details.
-
-## Project
-
-See this [PDF](papers/EE693F%20Project.pdf) for a discussion of project and deliverables. It may still be updated, ask me if you have questions.
-
-## Schedule
-
-The evolving schedule is available [here](schedule). -->

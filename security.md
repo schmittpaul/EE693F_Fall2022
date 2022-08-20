@@ -6,4 +6,5 @@ has_children: false
 parent: EE693F
 ---
 
-We will also be conducting security reviews. See this [PDF](papers/securityreview.pdf) for details.
+## Security Reviews
+A goal of this course is to change the way you view systems and adopt what we call a "security mindset." We will conduct security reviews to gain practice. See this [PDF](papers/securityreview.pdf) for details.
