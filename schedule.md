@@ -15,9 +15,9 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 |  8/22/2022 | Introduction<br>- [This World of Ours](papers/mickens.pdf)<br>- [The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | |
 |  8/24/2022 | Passwords<br>- [The Tangled Web of Password Reuse](papers/tangled-web.pdf) | |
 |  8/29/2022 | Passwords<br>- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/your-pa-word-doesn-t-matter/ba-p/731984)<br>- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](papers/neural-passwords.pdf) | |
-|  8/31/2022 | Anonymous Authentication<br>- [Blind signatures for untraceable payments](papers/blindsignatures.pdf) | |
+|  8/31/2022 | Metadata<br>- [Metadata: Piecing Together a Privacy Solution](papers/metadata.pdf) | |
 |   9/5/2022 | No class | |
-|   9/7/2022 | Metadata<br>- [Metadata: Piecing Together a Privacy Solution](papers/metadata.pdf) | |
+|   9/7/2022 | Anonymous Authentication<br>- [Blind signatures for untraceable payments](papers/blindsignatures.pdf) | |
 |  9/12/2022 | Academic Writing<br>- [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM) | |
 |  9/14/2022 | Anonymity<br>- [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](papers/chaum-mix.pdf) | |
 |  9/19/2022 | Anonymity<br>- [Tor: The Second-Generation Onion Router](papers/tor.pdf) | |
