@@ -36,9 +36,9 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 |  11/2/2022 | Mobile Apps<br>- [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](papers/vpn-app-risks.pdf) |     |
 |  11/7/2022 | Security Review Presentations<br>ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models](papers/membership.pdf) |     |
 |  11/9/2022 | ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](papers/ML-for-IDS.pdf) | |
-| 11/14/2022 | Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries](papers/odns.pdf) |     |
+| 11/14/2022 | No class: work on your project |     |
 | 11/16/2022 | No class: work on your project | |
-| 11/21/2022 | No class: work on your project | |
+| 11/21/2022 | Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries](papers/odns.pdf) | |
 | 11/23/2022 | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](papers/watching.pdf) | Final Project Deliverable |
 | 11/28/2022 | IoT<br>- [Information Exposure From Consumer IoT Devices](papers/ren-imc19.pdf) |     |
 | 11/30/2022 | Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf) | Paper Reviews |
