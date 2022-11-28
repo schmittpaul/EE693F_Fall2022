@@ -40,7 +40,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 11/16/2022 | No class: work on your project | |
 | 11/21/2022 | Security Review Presentations<br>ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models](papers/membership.pdf) | |
 | 11/23/2022 | Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries](papers/odns.pdf) | Final Project Deliverable |
-| 11/28/2022 | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](papers/watching.pdf) | Final Project Deliverable |
+| 11/28/2022 | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](papers/watching.pdf) |  |
 | 11/30/2022 | IoT<br>- [Information Exposure From Consumer IoT Devices](papers/ren-imc19.pdf) |     |
 | 12/5/2022 | Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf)<br>- [Encore: Lightweight Measurement of Web Censorship with Cross-Origin Requests](papers/encore.pdf) | Paper Reviews |
 |  12/7/2022 | Project Presentations                                 | Revised Papers Due |
